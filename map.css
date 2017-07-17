@@ -1,0 +1,12 @@
+#mapentry{padding-bottom:10px;margin:0;}
+#directions-panel {
+height: 400px;
+float: right;
+width: 350px;
+overflow: auto;
+}
+.ttl01{
+width: 210px;
+float: left;
+}
+.map_form p{width: 530px;}
